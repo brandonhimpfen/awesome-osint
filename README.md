@@ -1,10 +1,10 @@
 # Awesome OSINT [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
-[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
-[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) &nbsp; 
-[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3) &nbsp; 
-[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp; 
+[![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp;
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp;
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://www.paypal.com/donate/?hosted_button_id=3LLKRXJU44EJJ) &nbsp;
+[![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3) &nbsp;
+[![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) &nbsp;
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
 > A curated list of high-quality open-source intelligence (OSINT) tools, resources, and techniques for investigations, journalism, cybersecurity, and more.
@@ -30,7 +30,7 @@ OSINT (Open Source Intelligence) involves collecting and analyzing publicly avai
 ## General OSINT Resources
 
 - [OSINT Framework](https://osintframework.com/) – Comprehensive index of tools categorized by target (e.g., email, social networks).
-- [Bellingcat’s OSINT Tools](https://www.bellingcat.com/resources/) – Tools and tips used by the investigative journalism collective.
+- [Bellingcat's OSINT Tools](https://www.bellingcat.com/resources/) – Tools and tips used by the investigative journalism collective.
 - [IntelTechniques](https://inteltechniques.com/) – Tools and resources for private investigators and law enforcement.
 - [Maltego](https://www.maltego.com/) – Graph-based link analysis platform for intelligence and forensics.
 
@@ -55,6 +55,7 @@ OSINT (Open Source Intelligence) involves collecting and analyzing publicly avai
 
 ## Geolocation & Maps
 
+- [GeoInfer](https://geoinfer.io) – AI-powered image geolocation tool that predicts GPS coordinates from photos without requiring EXIF data.
 - [Google Earth](https://earth.google.com/) – High-resolution satellite imagery and street-level visuals.
 - [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser) – Satellite imagery with environmental and geographic overlays.
 - [Mapillary](https://www.mapillary.com/) – Street-level imagery from users worldwide.
@@ -94,9 +95,9 @@ OSINT (Open Source Intelligence) involves collecting and analyzing publicly avai
 
 ## Training & Guides
 
-- [The Hitchhiker’s Guide to OSINT](https://osint.guide/) – Comprehensive learning resource and methodology guide.
+- [The Hitchhiker's Guide to OSINT](https://osint.guide/) – Comprehensive learning resource and methodology guide.
 - [OSINT Techniques by Michael Bazzell](https://inteltechniques.com/book1.html) – Popular book on practical techniques.
-- [Bellingcat’s Guide to OSINT](https://www.bellingcat.com/resources/how-tos/) – Tutorials and workflows for investigations.
+- [Bellingcat's Guide to OSINT](https://www.bellingcat.com/resources/how-tos/) – Tutorials and workflows for investigations.
 
 ## Communities & Directories
 

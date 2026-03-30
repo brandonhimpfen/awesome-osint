@@ -45,6 +45,7 @@ OSINT (Open Source Intelligence) involves collecting and analyzing publicly avai
 - [Pipl](https://pipl.com/) – Commercial people search engine aggregating deep web data.
 - [BeenVerified](https://www.beenverified.com/) – Aggregated background checks and social data.
 - [Whoogle](https://github.com/benbusby/whoogle-search) – Self-hosted search engine that delivers Google results without tracking.
+- [Expose Team](https://expose.team?utm_source=github.com&utm_campaign=brandonhimpfen_awesome_osint) – AI-Powered OSINT at Lightspeed.
 
 ## Social Media Investigation
 

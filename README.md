@@ -58,6 +58,7 @@ OSINT (Open Source Intelligence) involves collecting and analyzing publicly avai
 - [Google Earth](https://earth.google.com/) – High-resolution satellite imagery and street-level visuals.
 - [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser) – Satellite imagery with environmental and geographic overlays.
 - [Mapillary](https://www.mapillary.com/) – Street-level imagery from users worldwide.
+- [Phantom Tide](https://phantomtide.co.uk/) – Hosted geospatial intelligence platform for maritime and airspace monitoring with real-time map-based workflows.
 - [SunCalc](https://www.suncalc.org/) – Shows sun movement and sunlight phases anywhere on Earth.
 
 ## Image & Video Analysis

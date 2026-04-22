@@ -36,6 +36,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Bellingcat’s OSINT Tools](https://www.bellingcat.com/resources/) – Tools and tips used by the investigative journalism collective.
 - [IntelTechniques](https://inteltechniques.com/) – Tools and resources for private investigators and law enforcement.
 - [Maltego](https://www.maltego.com/) – Graph-based link analysis platform for intelligence and forensics.
+- [Crime Brasil](https://crimebrasil.com.br) – Brazilian crime and public-safety data platform: ~3M geocoded incidents, free REST API, CC BY 4.0. Useful for investigators working Brazilian leads.
 
 ## Search Engines & Indexes
 

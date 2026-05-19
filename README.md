@@ -54,6 +54,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Social Searcher](https://www.social-searcher.com/) – Real-time search across multiple social networks.
 - [AccountAnalysis](https://accountanalysis.app/) – Analyze public data on X/Twitter accounts.
 - [Spoonbill](https://spoonbill.io/) – Track bios and changes of Twitter profiles.
+- [TwitterAPI.io](https://twitterapi.io) – Real-time X (Twitter) data API for investigators: historical tweet search, profile lookup, follower extraction, account monitoring with webhooks. $0.15 per 1K tweets, free $0.10 credits on signup.
 - [Smihub / Dumpor (Instagram)](https://dumpor.com/) – View and download public Instagram stories and posts anonymously.
 
 ## Geolocation & Maps

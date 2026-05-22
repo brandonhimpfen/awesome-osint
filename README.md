@@ -76,6 +76,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [ViewDNS](https://viewdns.info/) – Tools to analyze domains, IPs, and DNS.
 - [DNSDumpster](https://dnsdumpster.com/) – Free domain research and reconnaissance tool.
 
+- [Domain Intelligence API](https://github.com/osiris-technical-institute/domain-intelligence-api) – REST API aggregating WHOIS/RDAP, DNS records, SSL certificate inspection, subdomain enumeration (CT logs + DNS bruteforce), and email security (SPF/DMARC/DKIM) for any domain in a single call. MIT-licensed, free tier available.
+
 ## IP & Network Intelligence
 
 - [IPinfo](https://ipinfo.io/) – IP address lookup and geolocation.

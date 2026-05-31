@@ -54,6 +54,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Social Searcher](https://www.social-searcher.com/) – Real-time search across multiple social networks.
 - [AccountAnalysis](https://accountanalysis.app/) – Analyze public data on X/Twitter accounts.
 - [Spoonbill](https://spoonbill.io/) – Track bios and changes of Twitter profiles.
+- [GetXAPI](https://www.getxapi.com) – Twitter/X data API for tweet search, user profiles, follower extraction, mentions, lists, and account monitoring. Public OpenAPI 3.1 spec at docs.getxapi.com/openapi.json.
 - [Smihub / Dumpor (Instagram)](https://dumpor.com/) – View and download public Instagram stories and posts anonymously.
 
 ## Geolocation & Maps

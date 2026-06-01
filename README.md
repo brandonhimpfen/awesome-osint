@@ -54,6 +54,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Social Searcher](https://www.social-searcher.com/) – Real-time search across multiple social networks.
 - [AccountAnalysis](https://accountanalysis.app/) – Analyze public data on X/Twitter accounts.
 - [Spoonbill](https://spoonbill.io/) – Track bios and changes of Twitter profiles.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) – MIT-licensed X/Twitter OSINT toolkit for public tweet search, account triage, follower export, network mapping, watchlist monitors, and media preservation.
 - [Smihub / Dumpor (Instagram)](https://dumpor.com/) – View and download public Instagram stories and posts anonymously.
 
 ## Geolocation & Maps

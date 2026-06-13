@@ -32,6 +32,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## General OSINT Resources
 
 - [OSINT Framework](https://osintframework.com/) – Comprehensive index of tools categorized by target (e.g., email, social networks).
+- [Albis](https://www.albis.news/?utm_source=github&utm_medium=public_catalog&utm_campaign=awesome_osint_brandonhimpfen) – News-discovery feed for comparing global stories, coverage gaps, and framing differences across sources.
 - [Bellingcat’s OSINT Tools](https://www.bellingcat.com/resources/) – Tools and tips used by the investigative journalism collective.
 - [IntelTechniques](https://inteltechniques.com/) – Tools and resources for private investigators and law enforcement.
 - [Maltego](https://www.maltego.com/) – Graph-based link analysis platform for intelligence and forensics.

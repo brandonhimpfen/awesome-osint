@@ -62,6 +62,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser) – Satellite imagery with environmental and geographic overlays.
 - [Mapillary](https://www.mapillary.com/) – Street-level imagery from users worldwide.
 - [SunCalc](https://www.suncalc.org/) – Shows sun movement and sunlight phases anywhere on Earth.
+- [Oceanir](https://oceanir.ai/) – AI image geolocation that estimates where a photo or video was taken from visual cues alone, no GPS or EXIF required.
 
 ## Image & Video Analysis
 

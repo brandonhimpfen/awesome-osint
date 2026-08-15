@@ -75,6 +75,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [WHOIS Lookup (ICANN)](https://lookup.icann.org/) – Official WHOIS database search.
 - [ViewDNS](https://viewdns.info/) – Tools to analyze domains, IPs, and DNS.
 - [DNSDumpster](https://dnsdumpster.com/) – Free domain research and reconnaissance tool.
+- [SiteData](https://sitedata.dev/) — Website investigation tool for mapping related domains through shared AdSense publisher IDs and Google Ads advertisers, with WHOIS, traffic, and SEO context.
 
 ## IP & Network Intelligence
 

@@ -81,6 +81,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [IPinfo](https://ipinfo.io/) – IP address lookup and geolocation.
 - [SecurityTrails](https://securitytrails.com/) – Domain, IP, and DNS information.
 - [AbuseIPDB](https://www.abuseipdb.com/) – Check if an IP has been reported for abuse.
+- [MyIPScan](https://myipscan.net/tools/) – Browser-based IP, ASN, WHOIS/RDAP, reverse DNS and IP-range lookups, plus DNS, WebRTC and IPv6 leak tests.
 
 ## Dark Web OSINT
 

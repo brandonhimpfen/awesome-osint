@@ -123,3 +123,6 @@ Pull requests that do not adhere to the contribution guidelines may be closed.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+
+- [DECEPTRIX](https://github.com/narain-karti/DECEPTRIX) - Multi-modal AI forensic investigation platform for video deepfake detection, audio-visual synchrony verification, and automated audit dossier export.

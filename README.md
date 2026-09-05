@@ -1,4 +1,4 @@
-# Awesome OSINT [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome OSINT [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
 [![DOI](https://zenodo.org/badge/1010386260.svg)](https://doi.org/10.5281/zenodo.19680802) 
@@ -109,10 +109,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- **[Awesome Privacy](https://github.com/awesomelistsio/awesome-privacy)** – Tools and resources for maintaining online privacy.
-- **[Awesome Journalism](https://github.com/awesomelistsio/awesome-journalism)** – Tools and platforms for investigative and digital journalism.
-- **[Awesome Surveillance](https://github.com/awesomelistsio/awesome-surveillance)** – Projects and information related to surveillance and counter-surveillance.
-- **[Awesome Threat Intelligence](https://github.com/awesomelistsio/awesome-threat-intelligence)** – Curated list of threat intelligence resources.
+- **[Awesome Privacy](https://github.com/brandonhimpfen/awesome-privacy)** – Tools and resources for maintaining online privacy.
+- **[Awesome Journalism](https://github.com/brandonhimpfen/awesome-journalism)** – Tools and platforms for investigative and digital journalism.
+- **[Awesome Surveillance](https://github.com/brandonhimpfen/awesome-surveillance)** – Projects and information related to surveillance and counter-surveillance.
+- **[Awesome Threat Intelligence](https://github.com/brandonhimpfen/awesome-threat-intelligence)** – Curated list of threat intelligence resources.
 
 ## Contribute
 

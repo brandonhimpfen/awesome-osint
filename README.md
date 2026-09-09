@@ -98,6 +98,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) – Web reconnaissance framework written in Python.
 - [Metagoofil](https://github.com/laramies/metagoofil) – Extract metadata from public documents.
 - [GHunt](https://github.com/mxrch/GHunt) – Investigate Google accounts and services using public info.
+- [TraceFind](https://tracefind.info) – Uncover the Truth Behind Any Email — Instantly
+
 
 ## Training & Guides
 
